@@ -5,7 +5,7 @@
  Ele conta com um menu com três opções, sendo a primeira a de fornecer um artigo randômico contendo: Titulo, descrição, a fonte, a data e a URL da notícia, a fim de comprovar sua veracidade e caso o usuário, queira ler mais à respeito.
  
  Na segunda opção temos algo parecido, entretanto podemos filtrar as notícias por tópicos, sendo eles: 
-•Tecnologia;
+•Tecnologia;\n
 •Esportes;
 •Política;
 •Entretenimento;
